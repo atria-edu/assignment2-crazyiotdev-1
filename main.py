@@ -1,2 +1,1 @@
-def concat(a):
-    return ('Hello, '+a+'!')
+print( len( input() ) )
