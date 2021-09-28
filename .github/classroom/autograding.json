@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "setup": "",
+      "run": "python3 main.py",
+      "input": "password",
+      "output": "8",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
